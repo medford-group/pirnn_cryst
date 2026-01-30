@@ -1,2 +1,2 @@
-# pirnn_cryst
-A physics-informed recurrent neural network (PIRNN) framework for modeling and simulating batch cooling dynamics.
+# PIRNNs for batch crystallization under uncertainties
+A physics-informed recurrent neural network (PIRNN) framework for modeling and simulating batch cooling dynamics. This repo is the official implementation of the paper *"Modeling Batch Crystallization under Uncertainty Using Physics-informed Machine Learning"* by D. Nai *et al*. Only a placeholder demo notebook is included for now since the complete code for all the data preparation, model training, and data analysis is still undergoing the lint process. It will be fully released in the repository once finalized.
